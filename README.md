@@ -1,7 +1,7 @@
 # AtliQ-Grands-Hospitality-Analysis
 
 ### **Interactive Dashboard link:**  
-[https://lnkd.in/gHn_WPpr](https://lnkd.in/gHn_WPpr)
+[LINK](https://app.powerbi.com/view?r=eyJrIjoiMWQwM2VhM2UtMzY1YS00NGQ2LWFmMWEtZTllZmM4ZWJjOTI2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## **Introduction:**
 AtliQ Grands (Imaginary Company), a prestigious name with over 20 years of excellence. Renowned for its luxury and business hotels, AtliQ Grands operates in cities like Delhi, Mumbai, Bangalore, and Hyderabad, delivering five-star experiences to its guests.
